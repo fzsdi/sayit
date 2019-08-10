@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SayIt!</string>
+    <string name="setting">SETTING</string>
+    <string name="contact_us">CONTACT US</string>
+    <string name="say_it">SAY IT</string>
+    <string name="text_to_speech">Text to Speech</string>
+    <string name="speed">SPEED</string>
+    <string name="pitch">PITCH</string>
+    <string name="read">READ</string>
+    <string name="clear">CLEAR</string>
+    <string name="reset">RESET</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="language">Language</string>
+    <string name="report_bug">REPORT BUG</string>
+    <string name="subject">Subject</string>
+    <string name="message">Message</string>
+    <string name="send">Send</string>
+    <string name="to">To</string>
+    <string name="email_address">CARMENAPPS@PM.ME</string>
+</resources>

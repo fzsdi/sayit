@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/say_it"
+        android:title="@string/say_it"
+        android:icon="@drawable/ic_speaker_notes_black_24dp"/>
+    <item
+        android:id="@+id/contact_us"
+        android:title="@string/contact_us"
+        android:icon="@drawable/ic_import_contacts_black_24dp" />
+</menu>
